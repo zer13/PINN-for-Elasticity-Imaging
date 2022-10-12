@@ -1,4 +1,4 @@
-# ElasticityImagingPINN
+# PINN for Elasticity Imaging
 
 Physics-Informed Neural Networks for Nonhomogeneous Material Identification in Elasticity Imaging
 
